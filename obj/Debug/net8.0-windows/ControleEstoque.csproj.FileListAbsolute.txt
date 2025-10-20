@@ -1,0 +1,14 @@
+c:\Users\HOME\Documents\Vscode\projeto-estoque\bin\Debug\net8.0-windows\ControleEstoque.exe
+c:\Users\HOME\Documents\Vscode\projeto-estoque\bin\Debug\net8.0-windows\ControleEstoque.deps.json
+c:\Users\HOME\Documents\Vscode\projeto-estoque\bin\Debug\net8.0-windows\ControleEstoque.runtimeconfig.json
+c:\Users\HOME\Documents\Vscode\projeto-estoque\bin\Debug\net8.0-windows\ControleEstoque.dll
+c:\Users\HOME\Documents\Vscode\projeto-estoque\bin\Debug\net8.0-windows\ControleEstoque.pdb
+c:\Users\HOME\Documents\Vscode\projeto-estoque\obj\Debug\net8.0-windows\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HOME\Documents\Vscode\projeto-estoque\obj\Debug\net8.0-windows\ControleEstoque.AssemblyInfoInputs.cache
+c:\Users\HOME\Documents\Vscode\projeto-estoque\obj\Debug\net8.0-windows\ControleEstoque.AssemblyInfo.cs
+c:\Users\HOME\Documents\Vscode\projeto-estoque\obj\Debug\net8.0-windows\ControleEstoque.csproj.CoreCompileInputs.cache
+c:\Users\HOME\Documents\Vscode\projeto-estoque\obj\Debug\net8.0-windows\ControleEstoque.dll
+c:\Users\HOME\Documents\Vscode\projeto-estoque\obj\Debug\net8.0-windows\refint\ControleEstoque.dll
+c:\Users\HOME\Documents\Vscode\projeto-estoque\obj\Debug\net8.0-windows\ControleEstoque.pdb
+c:\Users\HOME\Documents\Vscode\projeto-estoque\obj\Debug\net8.0-windows\ControleEstoque.genruntimeconfig.cache
+c:\Users\HOME\Documents\Vscode\projeto-estoque\obj\Debug\net8.0-windows\ref\ControleEstoque.dll
